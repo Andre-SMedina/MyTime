@@ -2,7 +2,6 @@
 
 My Time
 
-Descrição
 O My Time é uma aplicação Flutter desenvolvida para gerenciar suas atividades diárias. Com ele, você pode iniciar e finalizar registros de tempo e visualizar o histórico de atividades.
 
 Funcionalidades
